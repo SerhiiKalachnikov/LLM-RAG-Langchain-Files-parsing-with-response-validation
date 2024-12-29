@@ -1,4 +1,4 @@
-# LLM-RAG-Langchain-Files-parsing-with-response-validation
+# LLM RAG Langchain Files parsing with response validation
 
 ## 🌟 Overview
 
